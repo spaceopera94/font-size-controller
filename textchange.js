@@ -51,4 +51,3 @@ function shrink() {
       document.getElementById("chapter").style.fontSize = "medium";
   }
 }
-</script>
