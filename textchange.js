@@ -48,6 +48,6 @@ function shrink() {
     document.getElementById("chapter").style.fontSize = "x-large";
       break;
     default:
-      document.getElementById("chapter").style.fontSize = "medium";
+      document.getElementById("chapter").style.fontSize = "small";
   }
 }
